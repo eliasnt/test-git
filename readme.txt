@@ -1,2 +1,2 @@
 GitHub test
-new phrase
+new unconflicted
